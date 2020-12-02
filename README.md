@@ -25,3 +25,6 @@ And the to aceess Home page. Go to URL:-
 ```
 http://localhost:3000/
 ```
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
